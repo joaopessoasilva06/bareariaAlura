@@ -1,0 +1,40 @@
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+p{
+	text-align: center;
+	background: #CCCCCC;
+}
+h1{
+	text-align:center;
+}
+em strong{
+	color: red;
+}
+p em{
+	font-size:20px;
+}
+img{
+	width: 100%;
+}
+.Itens{
+	font-style: italic;
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+h2 {
+	text-align: center;
+}
+.imagembeneficios{
+	width: 50%;
+}
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
